@@ -28,7 +28,7 @@ twitter_username: m_gitz
 github_username:  PracticumAI
 
 # Build settings
-theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 

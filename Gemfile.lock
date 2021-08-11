@@ -9,6 +9,13 @@ GEM
       zeitwerk (~> 2.2, >= 2.2.2)
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
+    bulma-clean-theme (0.11.2)
+      jekyll (~> 3.9)
+      jekyll-feed (~> 0.15)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.6)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -274,9 +281,9 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  bulma-clean-theme
   github-pages (~> 218)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

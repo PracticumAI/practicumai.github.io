@@ -8,6 +8,7 @@ image-width: 80px
 image-height: 80px
 ---
 
-This three-part series introduces learners to the foundations of deep learning.
+
+Much of modern AI relies on Python, this course leads non-coders through exercises to learn enough Python to begin their AI explorations.
 
 Check back soon for more details.

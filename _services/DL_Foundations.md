@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Python"
+title: "Deep Learning Foundations"
 date: 2021-08-12
 featured: true
 weight: 3

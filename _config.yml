@@ -3,6 +3,8 @@ url: ''
 permalink: pretty
 title: 'Practicum AI'
 
+google_analytics: 'G-X1YCQKBD8F'
+
 logo:
   mobile: "images/practicumai_logo.jpg"
   mobile_height: "32px"

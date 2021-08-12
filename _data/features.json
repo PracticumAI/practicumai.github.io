@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Online Certificate",
+    "description": "Work toward a certification.",
+    "image": {
+      "url": "images/features/noun_Online_Certificate_4147096.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Latest GPU technology",
+    "description": "Learn how to leverage the latest GPU technology.",
+    "image": {
+      "url": "images/features/noun_gpu_1132940.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Jupyter Notebooks",
+    "description": "Hands-on exercises using Jupyter Notebooks.",
+    "image": {
+      "url": "images/features/Jupyter_logo.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

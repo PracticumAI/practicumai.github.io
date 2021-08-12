@@ -1,20 +1,19 @@
-<footer class="footer">
-    <div class="container">
-        
-        {% if site.footer_menu %}
-        <div class="columns is-multiline">
-            {% for item in site.data[site.footer_menu] %}
-            <div class="column has-text-centered">
-                <div>
-                    <a href="{{ item.link | relative_url }}" class="link">{{ item.name }}</a>
-                </div>
-            </div>
+<div class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="footer-inner">
+          <h2 class="footer-title">{{site.title}}</h2>
+          <ul>
+            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
+            {% for item in footermenu %}
+            <li class="{% if item.url == page.url %}active{% endif %}">
+              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+            </li>
             {% endfor %}
+          </ul>
         </div>
-        {% endif %}
-
-        <div class="content is-small has-text-centered">
-            <p class="">Theme built by <a href="https://www.csrhymes.com">C.S. Rhymes</a></p>
-        </div>
+      </div>
     </div>
-</footer>
+  </div>
+</div>

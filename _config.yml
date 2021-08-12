@@ -27,10 +27,21 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: m_gitz
 github_username:  PracticumAI
 
+favicon: images/favicon.jpg
+
 # Build settings
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+
+# Google Analytics
+google_analytics: G-X1YCQKBD8F
+
+#######################
+# MAG Extra variables #
+#######################
+
+logo_image: images\practicumai_logo.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.

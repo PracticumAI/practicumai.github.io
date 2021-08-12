@@ -31,7 +31,10 @@ bodyClass: "page-home"
             <h2 class="service-title">
               <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+              {% if service.image %}
+              <div class="service-image"><img alt="{{ service.title }} logo" src="{{ service.image | relative_url }}" width="{{ service.image-width }}" height="{{ service.image-height }}" align='left' /></div>
+              {% endif %}
+              {{ service.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>

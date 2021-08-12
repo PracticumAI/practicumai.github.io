@@ -2,7 +2,7 @@
 title: "Recurrent Neural Networks"
 date: 2021-08-12
 featured: true
-weight: 1
+weight: 7
 ---
 
 This series of modules introduces learners to recurrent neural networks (RNNs).

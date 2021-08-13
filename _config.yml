@@ -14,7 +14,7 @@ logo:
   desktop_width: "150px"
 
 collections:
-  services:
+  courses:
     output: true
   team:
     output: true
@@ -22,9 +22,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "courses"
     values:
-      layout: "service"
+      layout: "course"
   - scope:
       path: ""
       type: "team"

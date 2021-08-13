@@ -24,17 +24,17 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.services %}
+      {% for course in site.courses %}
       <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+        <div class="course course-summary">
+          <div class="course-content">
+            <h2 class="course-title">
+              <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
             </h2>
-              {% if service.image %}
-              <div class="service-image"><img alt="{{ service.title }} logo" src="{{ service.image | relative_url }}" width="{{ service.image-width }}" height="{{ service.image-height }}" align='left' /></div>
+              {% if course.image %}
+              <div class="course-image"><img alt="{{ course.title }} logo" src="{{ course.image | relative_url }}" width="{{ course.image-width }}" height="{{ course.image-height }}" align='left' /></div>
               {% endif %}
-              {{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+              {{ course.content | markdownify | strip_html | truncate: 100 }}</p>
           </div>
         </div>
       </div>

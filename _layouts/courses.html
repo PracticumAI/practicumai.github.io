@@ -1,6 +1,6 @@
 ---
 layout: default
-bodyClass: "page-services"
+bodyClass: "page-courses"
 ---
 
 <div class="intro">
@@ -20,15 +20,15 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% assign weighted_services = site.services | sort: "weight" %}
-    {% for service in weighted_services %}
+    {% assign weighted_courses = site.courses | sort: "weight" %}
+    {% for course in weighted_courses %}
     <div class="col-12 col-md-6 mb-3">
-      <div class="service service-summary">
-        <div class="service-content">
-          <h2 class="service-title">
-            <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+      <div class="course course-summary">
+        <div class="course-content">
+          <h2 class="course-title">
+            <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
           </h2>
-          <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ course.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>
     </div>

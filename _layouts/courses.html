@@ -28,6 +28,9 @@ bodyClass: "page-courses"
           <h2 class="course-title">
             <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
           </h2>
+          {% if course.image %}
+              <div class="course-image"><img alt="{{ course.title }} logo" src="{{ course.image | relative_url }}" width="{{ course.image-width }}" height="{{ course.image-height }}" align='left' /></div>
+          {% endif %}
           <p>{{ course.content | markdownify | strip_html | truncate: 100 }}</p>
         </div>
       </div>

@@ -4,4 +4,10 @@ layout: contact
 description: Contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+## UFIT Research Computing
+
+![UF Research Computing Logo](/images/ufrc_logo.png)
+
+Please visit our [Website](https://www.rc.ufl.edu/) or our [Help and Documentation pages](https://help.rc.ufl.edu/doc/UFRC_Help_and_Documentation) for additional information.
+
+

@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Information about our team coming soon.
+UF Research Computing has a team of experienced scientists and professionals that have worked to produce this program.

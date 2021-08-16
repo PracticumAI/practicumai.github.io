@@ -4,7 +4,7 @@ date: 2021-08-16
 draft: false
 image: "images/team/Dan2019.jpg"
 jobtitle: "Research Computing AI Training and Consulting"
-linkedinurl: ""
+promoted: true
 weight: 2
 layout: team
 ---

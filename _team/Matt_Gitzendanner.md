@@ -4,7 +4,7 @@ date: 2021-08-16
 draft: false
 image: "images/team/Matt2019.jpg"
 jobtitle: "Research Computing Training Team Lead"
-linkedinurl: ""
+promoted: true
 weight: 1
 layout: team
 ---

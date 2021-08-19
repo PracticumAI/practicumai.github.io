@@ -6,12 +6,14 @@ title: 'Practicum AI'
 google_analytics: 'G-X1YCQKBD8F'
 
 logo:
-  mobile: "images/practicumai_logo.jpg"
+  mobile: "images/logo/Practicum_globe.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/practicumai_logo.jpg"
+  desktop: "images/logo/PracticumAI_Logo.png"
   desktop_height: "32px"
   desktop_width: "150px"
+
+favicon: "images/logo/Practicum_globe.png"
 
 collections:
   courses:

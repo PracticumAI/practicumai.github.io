@@ -32,6 +32,10 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: "images/headers"
+    values:
+        image: true
 
 sass:
   indentWidth: 4

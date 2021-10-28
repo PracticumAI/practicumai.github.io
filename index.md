@@ -2,7 +2,7 @@
 title: Practicum AI
 layout: home
 description: 
-intro_image: "images/HPG_AI.racks.jpg"
+intro_image: random_img
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: false

@@ -10,7 +10,7 @@ image-height: 80px
 
 # Getting started in AI: ![Practicum AI Beginner Series Icon](/images/icons/practicumai-beginner.png) 
 
-The Practicum AI Beginner series has three modules that lead beginning learners through an introduction to AI, ethical considerations, an introduction to the Python programming language and hands-on deep learning activities.
+The Practicum AI Beginner series has four modules that lead beginning learners through an introduction to AI, ethical considerations, an introduction to the Python programming language and hands-on deep learning activities.
 
 ## Module 1: Ethics and AI ![AI Ethics icon](/images/icons/noun_ethics_green.svg)
 
@@ -31,7 +31,22 @@ The vast majority of hands-on artificial intelligence work is currently done usi
 
 [Go to the Python Module ![Python icon](/images/icons/noun_Python_green.svg)](https://github.com/PracticumAI/python)
 
-## Module 3: Deep Learning Foundations ![Deep Learning Foundations icon](/images/icons/noun_DeepLearning_green.svg)
+## Module 3: Reproducibility with git and GitHub.com
+
+![git_github icon](/images/icons/git_github.png)
+
+AI is powered by code--Python code, run in Jupyter Notebooks in our case.
+
+As a best practice, code should reside in a version control system. These systems allow collaboration, enforce good coding practices and foster collaboration and sharing. The most widely used version control system today is [`git`](http://git-scm.com/). Git is free and open source.
+
+In addition to using `git`, it is possible to use one of many online git hosting sites. For *Practicum AI* we use [GitHub.com](https://github.com/). There are other options, but GitHub is one of the leading online hosting companies and offers [educational discounts for students and faculty](https://education.github.com/).
+
+This module uses GitHub for the content itself. To start the training, you need a free GitHub.com account. Please register at: [https://github.com/](https://github.com/)
+
+Then click [**Accept this assignment**](https://classroom.github.com/a/l2VposaG) and follow the directions. [![git_github icon](/images/icons/git_github.png)](https://classroom.github.com/a/l2VposaG)
+
+## Module 4: Deep Learning Foundations 
+![Deep Learning Foundations icon](/images/icons/noun_DeepLearning_green.svg)
 
 This  series introduces learners to the foundations of deep learning.
 

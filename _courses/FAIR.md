@@ -1,8 +1,8 @@
 ---
 title: "FAIR Data for AI"
-date: 2021-08-19
-featured: true
-weight: 10
+date: 2022-03-08
+featured: false
+weight: 9
 image: '/images/icons/noun_Data_green.svg'
 image-width: 80px
 image-height: 80px

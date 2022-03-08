@@ -9,9 +9,9 @@ logo:
   mobile: "images/logo/Practicum_globe.png"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/PracticumAI_logo.png"
-  desktop_height: "32px"
-  desktop_width: "150px"
+  desktop: "images/logo/PracticumAI_logo_250x50.png"
+  desktop_height: "50px"
+  desktop_width: "250px"
 
 favicon: "images/logo/Practicum_globe.png"
 

@@ -58,7 +58,8 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for course in site.courses %}
+      {% assign weighted_courses = site.courses | sort: "weight" %}
+      {% for course in weighted_courses %}
       <div class="col-12 col-md-4 mb-1">
         <div class="course course-summary">
           <div class="course-content">
@@ -68,7 +69,7 @@ bodyClass: "page-home"
               {% if course.image %}
               <div class="course-image"><img alt="{{ course.title }} logo" src="{{ course.image | relative_url }}" width="{{ course.image-width }}" height="{{ course.image-height }}" align='left' /></div>
               {% endif %}
-              {{ course.content | markdownify | strip_html | truncate: 100 }}</p>
+              {{ course.content | strip_html | truncate: 250 }}</p>
           </div>
         </div>
       </div>

@@ -1,6 +1,12 @@
+---
+title: Jekyll Serif Theme License
+layout: page
+description: Jekyll Serif Theme License
+---
+
 The MIT License (MIT)
 
-Copyright (c) Robert Austin - rob@zerostatic.io - github.com/zerostaticthemes
+Copyright (c) Robert Austin - rob@zerostatic.io - [github.com/zerostaticthemes](https://github.com/zerostaticthemes)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

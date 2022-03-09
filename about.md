@@ -28,8 +28,8 @@ bodyClass: page-about
     <td><img src='https://i.creativecommons.org/l/by/4.0/88x31.png' align=top> </td>
     <td><strong>Open source, reusable, flexible!</strong> Everything we make, down to this website, is open source and freely available to others to reuse in courses, training, individual learning, however <i>you</i> can imagine! We are also happy to reply to <a href="https://github.com/PracticumAI/practicumai.github.io/issues">issues</a> and pull requests. <strong>Building AI knowledge</strong> is our mission!</td>
   </tr>
-
 </table>
 
+## Instructor access to teaching materials
 
-
+For information on accessing the instructor content, [please see this page](/instructor_app/).

@@ -12,68 +12,66 @@ image-height: 80px
 
 Intended for learners who have a basic foundation in Python and AI (those that have completed the [*Practicum AI Beginner* Series](/courses/beginner/)), the *Practicum AI Intermediate* series has six modules. These modules each focus on a particular method of AI, introducing learners to hands-on applications of each method and preparing them to apply these methods in their own projects.
 
-## Module 1: Convolutional Neural Networks ![CNN module icon](/images/icons/noun_NeuralNet_green.svg)
 
-This series of modules introduces learners to convolutional neural networks (CNNs).
-
-Check back soon for more details.
-
-### Learning Objectives
-
-1. Describe the basic operation of a convolutional neural network
-1. Identify the components of a convolutional neural network and their relation to each other
-1. Explain how the convolution, stride, and padding operations work
-1. Use a data generator to load and transform image data sets
-1. Recognize the importance of data augmentation in the training process
-1. Identify when a model is overfitting or underfitting a data set
-1. Be able to save and restore trained models
-1. Use a pre-trained model in a different context (transfer learning)
-
-## Module 2: Transfer Learning
-
-## Module 3: Natural Language Processing ![NLP module icon](/images/icons/noun_Language_green.svg)
-
-This series of modules introduces learners to natural language processing (NLP).
-
-Check back soon for more details.
-
-### Learning Objectives
-
-1. Enumerate various applications of NLP technology
-1. Perform basic data cleaning tasks, including tokenization, case normalization, punctuation, stop word removal, and stemming and lemmatization.
-1. Describe the classical approaches to text representation
-1. Implement one-hot encoding, term frequencies, and the TD-IDF method in code.
-1. Describe the basic workings of word embeddings (vector) algorithms
-1. Implement the Word2Vec algorithm in code
-1. Discuss the function of the various Word2Vec hyperparameters
-1. Recognize that a given text data set may contain implicit bias
-
-## Module 4: Recurrent Neural Networks
-
-This series of modules introduces learners to recurrent neural networks (RNNs).
-
-Check back soon for more details.
-
-### Learning Objectives
-
-1. List the unique features of sequence data
-1. Use graphing functions to visually display sequence data
-1. Describe the basic operation of a recurrent neural network
-1. Recognize the flexibility and versatility of recurrent neural networks
-1. Implement a recurrent neural network in code
-1. Train a recurrent neural network and evaluate its performance
-
-## Module 5: Transformers
-
-## Module 6: Generative Adversarial Networks
-
-This series of modules introduces learners to generative adversarial networks (GANs).
-
-Check back soon for more details.
-
-### Learning Objectives
-
-1. Describe the basic operation of a generative adversarial network
-1. Identify the key components of a generative adversarial network and their relation to each other
-1. Apply software engineering best-practices in the development of an AI-enabled system
-1. Implement a generative adversarial network in code
+<table>
+    <tr>
+        <td>
+            <a href='https://github.com/PracticumAI/cnn'><img src='/images/icons/noun_NeuralNet_green.svg' alt='CNN icon' width='500'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/cnn'>Module 1: Convolutional Neural Networks</a></h2>
+            <p>This series of modules introduces learners to convolutional neural networks (CNNs) for image classification. CNNs revolutionized computer vision and are one of the key concepts in deep learning.</p>
+            <p><a href='https://github.com/PracticumAI/cnn'>View the Convolutional Neural Networks repository in GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href='https://github.com/PracticumAI/transfer'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/transfer'>Module 2: Transfer Learning</a></h2>
+            <p>This module covers transfer learning, the process of starting with a model that has been trained on one task and adapting it for a new task. Just as you don't set off to learn a new task from scratch, with no understanding of the world, transfer learning allows the computer to take information learned on other datasets and apply that knowledge when faced with a new dataset and task.</p>
+            <p><a href='https://github.com/PracticumAI/transfer'>View the Transfer Learning repository in GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href='https://github.com/PracticumAI/nlp'><img src='/images/icons/noun_Language_green.svg'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/nlp'>Module 3: Natural Language Processing</a></h2>
+            <p>This series of modules introduces learners to natural language processing (NLP). NLP is used in everything from recommender systems that suggest related products when you shop online to automated translation and speach to text.</p>
+            <p><a href='https://github.com/PracticumAI/nlp'>View the Natural Language Processing repository in GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+           <a href='https://github.com/PracticumAI/rnn'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/rnn'>Module 4: Recurrent Neural Networks</a></h2>
+            <p>This series of modules introduces learners to recurrent neural networks (RNNs). RNNs are used in analyzing time series data, where knowledge of the state at previous time points is helpful in predicting a future time point.Applications include forecasting stock prices to predicting patient outcomes based on treatment and vitals over time.</p>
+            <p><a href='https://github.com/PracticumAI/rnn'>View the Recurrent Neural Networks repository in GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href='https://github.com/PracticumAI/transformers'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/transformers'>Module 5: Transformers</a></h2>
+            <p>Initially applied to NLP, transformers <i>transformed</i> 😉 natural language processing and have continued to find new applications.</p>
+            <p><a href='https://github.com/PracticumAI/transformers'>View the Transformers repository in GitHub</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href='https://github.com/PracticumAI/gan'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+        </td>
+        <td>
+            <h2><a href='https://github.com/PracticumAI/gan'>Module 6: Generative Adversarial Networks</a></h2>
+            <p>This series of modules introduces learners to generative adversarial networks (GANs). GANs work with two networks, one trained to produce fake output trying to make output that the second network cannot distinguish from real output. Music and image generation are common applications.</p>
+            <p><a href='https://github.com/PracticumAI/gan'>View the Generative Adversarial Networks repository in GitHub</a></p>
+        </td>
+    </tr>
+<table>

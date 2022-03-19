@@ -20,6 +20,8 @@ collections:
     output: true
   team:
     output: true
+  posts:
+    output: true
 
 defaults:
   - scope:
@@ -32,6 +34,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"     
   - scope:
       path: "images/headers"
     values:

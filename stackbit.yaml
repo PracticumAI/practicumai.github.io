@@ -11,6 +11,7 @@ pageLayoutKey: null
 logicFields:
   - course.weight
   - team.weight
+  - post.weight
 models:
   config:
     type: config
@@ -106,6 +107,27 @@ models:
       - type: boolean
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
+  posts:
+    type: page
+    label: posts
+    file: posts.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: permalink
+        label: Permalink
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Absolute
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
   basicpage:
     type: page
     label: Basic Page
@@ -183,6 +205,35 @@ models:
       - type: boolean
         name: promoted
         label: Promoted
+  post:
+    type: page
+    label: post
+    folder: _posts
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: boolean
+        name: draft
+        label: Draft
+      - type: image
+        name: image
+        label: Image
+      - type: number
+        name: weight
+        label: Weight
+        subtype: int
+      - type: string
+        name: layout
+        label: Layout
+        hidden: true
+        default: post
+      - type: boolean
+        name: promoted
+        label: Promoted       
   contact:
     type: data
     label: Contact

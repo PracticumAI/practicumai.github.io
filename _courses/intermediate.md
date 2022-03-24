@@ -4,11 +4,11 @@ date: 2022-03-08
 featured: true
 weight: 2
 image: '/images/icons/practicumai-intermediate.png'
-image-width: 80px
-image-height: 80px
+image-width: 100px
+image-height: 100px
 ---
 
-# Keep learning AI: ![Practicum AI Intermediate Series Icon](/images/icons/practicumai-intermediate.png) 
+# Keep learning AI
 
 Intended for learners who have a basic foundation in Python and AI (those that have completed the [*Practicum AI Beginner* Series](/courses/beginner/)), the *Practicum AI Intermediate* series has six modules. These modules each focus on a particular method of AI, introducing learners to hands-on applications of each method and preparing them to apply these methods in their own projects.
 

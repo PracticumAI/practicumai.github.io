@@ -4,11 +4,11 @@ date: 2022-03-08
 featured: true
 weight: 1
 image: '/images/icons/practicumai-beginner.png'
-image-width: 80px
-image-height: 80px
+image-width: 100px
+image-height: 100px
 ---
 
-# Getting started in AI: ![Practicum AI Beginner Series Icon](/images/icons/practicumai-beginner.png) 
+# Getting started in AI
 
 The Practicum AI Beginner series has four modules that lead beginning learners through an introduction to AI, ethical considerations, an introduction to the Python programming language and hands-on deep learning activities.
 

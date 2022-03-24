@@ -29,3 +29,7 @@ Students recognize the importance of organizing data so that others can understa
 ## Session 2
 
 Coming soon!
+
+<hr> 
+
+[View the source repository on GitHub](https://github.com/PracticumAI/fair)

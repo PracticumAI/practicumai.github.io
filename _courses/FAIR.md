@@ -28,6 +28,28 @@ Students recognize the importance of organizing data so that others can understa
 
 ## Session 2
 
+### Before the session
+
+Prior to session 2, students should complete the activity for [Exercise 2](../../fair/FAIR_Exercise_2/): Searching the literature for published datasets.<a href='../../fair/FAIR_Exercise_2/'><img src='/fair/images/fitness-tracker.png' align='right' width='400' style='padding: 0px 0px 0px 20px'></a>
+
+### Objectives
+
+Students recognize the value of accessibly archived data, by experiencing the challenges of accessing data from published papers.
+
+### Learning Outcomes
+
+1. Students can explain why accessible data archiving is valuable.
+1. Students can provide strategies for getting data from published papers, and anticipate challenges to accessing the data.
+1. Students can define FAIR and the identify the components FAIR data
+1. Students can summarize steps involved in FAIR data collection, management, and deposition.
+1. Students can define metadata summarize key components of metadata
+
+### Presentation
+
+Coming soon!
+
+## Session 3
+
 Coming soon!
 
 <hr> 

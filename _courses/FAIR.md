@@ -13,6 +13,12 @@ This module covers making data for AI/ML FAIR (**F**indable, **A**ccessible, **I
 
 ## Session 1
 
+### Before the session
+
+Before starting this session, [please take this quick pre-assessment](https://ufl.qualtrics.com/jfe/form/SV_7aBxTBOI5K6ubNI).
+
+### Hands-on exercise
+
 [Exercise 1](../../fair/FAIR_Exercise_1/): A Hands-on exploration of data in spreadsheets.
 
 <a href='../../fair/FAIR_Exercise_1/'><img src='../../fair/images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' width='500' style='padding: 0px 0px 0px 20px'></a>

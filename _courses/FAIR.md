@@ -52,12 +52,24 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 
 ### Presentation
 
-Coming soon!
+[FAIR Overview slides](https://docs.google.com/presentation/d/1ikukDeyxKa4RCfpH0ehNa35lMbVNawwXaPA_XbGgaBs/edit?usp=sharing)
 
 ## Session 3
 
-Coming soon!
+### Before the session
+
+Complete [exercise 3](../../fair/FAIR_Exercise_3/)
+
+### Objectives
+
+1. Students recognize the value of shared data, and develop some skills at searching for data, by searching data repositories for datasets.
+1. Students learn about domain-specific and generalist repositories.
+1. Students evaluate metadata associated with data found in repositories.
+
+
 
 <hr> 
 
 [View the source repository on GitHub](https://github.com/PracticumAI/fair)
+
+Instructors wishing to use these resources can [apply for access to the instructor repositories](/instructor_app/) which contain additional lesson plans and discussion prompts.

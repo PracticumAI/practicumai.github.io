@@ -54,11 +54,16 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 
 [FAIR Overview slides](https://docs.google.com/presentation/d/1ikukDeyxKa4RCfpH0ehNa35lMbVNawwXaPA_XbGgaBs/edit?usp=sharing)
 
+### Additional Resources
+
+* For a closer look at the Cardiovascular Disease Ontology, check out the `.obo` file here: [https://github.com/OpenLHS/CVDO](https://github.com/OpenLHS/CVDO)
+* For a nice, graphical interface to an ontology, check out the [Disease Ontology](https://disease-ontology.org/).
+
 ## Session 3
 
-### Before the session
+### Exercise 3
 
-Complete [exercise 3](../../fair/FAIR_Exercise_3/)
+[Exercise 3](../../fair/FAIR_Exercise_3/) will introduce you to data repositories.
 
 ### Objectives
 
@@ -66,7 +71,15 @@ Complete [exercise 3](../../fair/FAIR_Exercise_3/)
 1. Students learn about domain-specific and generalist repositories.
 1. Students evaluate metadata associated with data found in repositories.
 
+### Presentation
 
+[FAIR, RDM , and Open slides](https://docs.google.com/presentation/d/1YB07xuFdS2rzVshjzeFqU9qjh3OtFqUhG7OjzGKVGeQ/edit?usp=sharing)
+
+### Additional Resources
+
+* [DataOne Data Sharing and Research Data Management handout]((../../fair/handouts/L02_DataSharing_Handout.pdf)).
+* Higman, R., Bangert, D. and Jones, S., 2019. Three camps, one destination: the intersections of research data management, FAIR and Open. Insights, 32(1), p.18. DOI: [http://doi.org/10.1629/uksg.468](http://doi.org/10.1629/uksg.468)
+* European Commission, Directorate-General for Research and Innovation, Turning FAIR into reality : final report and action plan from the European Commission expert group on FAIR data, Publications Office, 2018, [https://data.europa.eu/doi/10.2777/54599](https://data.europa.eu/doi/10.2777/54599)
 
 <hr> 
 

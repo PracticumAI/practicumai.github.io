@@ -19,9 +19,9 @@ Before starting this session, [please take this quick pre-assessment](https://uf
 
 ### Hands-on exercise
 
-[Exercise 1](../../fair/FAIR_Exercise_1/): A Hands-on exploration of data in spreadsheets.
+[Exercise 1](/fair/FAIR_Exercise_1/): A Hands-on exploration of data in spreadsheets.
 
-<a href='../../fair/FAIR_Exercise_1/'><img src='../../fair/images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' width='500' style='padding: 0px 0px 0px 20px'></a>
+<a href='/fair/FAIR_Exercise_1/'><img src='/fair/images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' width='500' style='padding: 0px 0px 0px 20px'></a>
 
 ### Objectives
 
@@ -36,7 +36,7 @@ Students recognize the importance of organizing data so that others can understa
 
 ### Before the session
 
-Prior to session 2, students should complete the activity for [Exercise 2](../../fair/FAIR_Exercise_2/): Searching the literature for published datasets.<a href='../../fair/FAIR_Exercise_2/'><img src='/fair/images/fitness-tracker.png' align='right' width='400' style='padding: 0px 0px 0px 20px'></a>
+Prior to session 2, students should complete the activity for [Exercise 2](/fair/FAIR_Exercise_2/): Searching the literature for published datasets.<a href='/fair/FAIR_Exercise_2/'><img src='/fair/images/fitness-tracker.png' align='right' width='400' style='padding: 0px 0px 0px 20px'></a>
 
 ### Objectives
 
@@ -63,7 +63,7 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 
 ### Exercise 3
 
-[Exercise 3](../../fair/FAIR_Exercise_3/) will introduce you to data repositories.
+[Exercise 3](/fair/FAIR_Exercise_3/) will introduce you to data repositories.
 
 ### Objectives
 
@@ -77,7 +77,7 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 
 ### Additional Resources
 
-* [DataOne Data Sharing and Research Data Management handout]((../../fair/handouts/L02_DataSharing_Handout.pdf)).
+* [DataOne Data Sharing and Research Data Management handout](/fair/handouts/L02_DataSharing_Handout.pdf).
 * Higman, R., Bangert, D. and Jones, S., 2019. Three camps, one destination: the intersections of research data management, FAIR and Open. Insights, 32(1), p.18. DOI: [http://doi.org/10.1629/uksg.468](http://doi.org/10.1629/uksg.468)
 * European Commission, Directorate-General for Research and Innovation, Turning FAIR into reality : final report and action plan from the European Commission expert group on FAIR data, Publications Office, 2018, [https://data.europa.eu/doi/10.2777/54599](https://data.europa.eu/doi/10.2777/54599)
 

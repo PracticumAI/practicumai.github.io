@@ -23,14 +23,14 @@ bodyClass: "page-posts"
         {% assign ordered_posts = site.posts | sort : "date" | reverse %}
         {% for post in ordered_posts %}
         <div class="col-12 col-md-6 mb-2">
-            <div class="post post-summary post-summary-large">
-                {% if post.image %}
-                <div class="post-image">
-                    <img width="90" height="90" alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" />
-                </div>
-                {% endif %}
+            <div class="posts post-summary post-summary-large">
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+                    {% if post.image %}
+                    <div class="post-image">
+                        <img width="300" alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" />
+                    </div>
+                    {% endif %}
                     <p class="post-description">{{ post.subtitle }}</p>
                     <p>{{ post.date | date: " %B %-d, %Y" }}</p>
                 </div>

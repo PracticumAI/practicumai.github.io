@@ -3,6 +3,7 @@ title: "FAIR Training"
 draft: false
 subtitle: "The first iteration of our FAIR training content is live!"
 layout: post
+image: /fair/images/FAIR.png
 ---
 
 Funded in part by NIH grant [3T34GM118272-05S1](https://reporter.nih.gov/search/13EDCF0A498DC2D57598B8961CAA4A01A2FFCEB861BF/project-details/10405962), a supplement to grant [5T34GM118272-05](https://reporter.nih.gov/search/13EDCF0A498DC2D57598B8961CAA4A01A2FFCEB861BF/project-details/10163865) we are proud to launch the initial version of our FAIR training for AI/ML.

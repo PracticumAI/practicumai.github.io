@@ -109,7 +109,7 @@ models:
         label: Intro Image Hide On Mobile
   posts:
     type: page
-    label: posts
+    label: Posts
     file: posts.md
     singleInstance: true
     fields:

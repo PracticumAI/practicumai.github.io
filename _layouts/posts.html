@@ -20,7 +20,7 @@ bodyClass: "page-posts"
 
 <div class="container pt-6 pb-6">
     <div class="row">
-        {% assign ordered_posts = site.posts | sort: "date" %}
+        {% assign ordered_posts = site.posts | sort : "date" | reverse %}
         {% for post in ordered_posts %}
         <div class="col-12 col-md-6 mb-2">
             <div class="post post-summary post-summary-large">
@@ -35,6 +35,7 @@ bodyClass: "page-posts"
                     <p>{{ post.date | date: " %B %-d, %Y" }}</p>
                 </div>
                 <div class="post-content">{{ post.content | truncate: 300 }}</div>
+                
             </div>
         </div>
         {% endfor %}

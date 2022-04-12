@@ -6,11 +6,11 @@ bodyClass: "page-posts"
 <div class="intro">
     <div class="container">
         <div class="row justify-content-start">
-            <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+            <div class="col-12">
                 {{ content }}
             </div>
             {% if page.intro_image %}
-            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+            <div class="col-12 position-relative">
                 <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relative_url }}" />
             </div>
             {% endif %}
@@ -18,25 +18,27 @@ bodyClass: "page-posts"
     </div>
 </div>
 
-<div class="container pt-6 pb-6">
+<div class="container pt-6 pb-6 ">
     <div class="row">
         {% assign ordered_posts = site.posts | sort : "date" | reverse %}
         {% for post in ordered_posts %}
-        <div class="col-12 col-md-6 mb-2">
+        <div class="col-12 col-md-6 mb-3">
             <div class="posts post-summary post-summary-large">
                 <div class="post-meta">
                     <h2 class="post-name"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     {% if post.image %}
                     <div class="post-image">
-                        <img width="300" alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" />
+                        <a href="{{ post.url | relative_url }}"><img alt="{{ post.title }}" class="img-fluid mb-2" src="{{ post.image | relative_url }}" /></a>
                     </div>
                     {% endif %}
                     <p class="post-description">{{ post.subtitle }}</p>
                     <p>{{ post.date | date: " %B %-d, %Y" }}</p>
                 </div>
-                <div class="post-content">{{ post.content | truncate: 300 }}</div>
-                
+                <div class="post-content">
+                    <p>{{ post.content | markdownify | strip_html | truncate: 300 }}</p>
+                </div>
             </div>
+            <p></p>
         </div>
         {% endfor %}
     </div>

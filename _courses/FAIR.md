@@ -57,7 +57,8 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 ### Additional Resources
 
 * For a closer look at the Cardiovascular Disease Ontology, check out the `.obo` file here: [https://github.com/OpenLHS/CVDO](https://github.com/OpenLHS/CVDO)
-* For a nice, graphical interface to an ontology, check out the [Disease Ontology](https://disease-ontology.org/).
+* For a nice, graphical interface to an ontology, check out the [Disease Ontology](https://disease-ontology.org/). 
+* Another good example is the [Plant Phenology Ontology](https://www.ebi.ac.uk/ols/ontologies/ppo).
 
 ## Session 3
 

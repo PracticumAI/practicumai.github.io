@@ -3,7 +3,7 @@ title: "Practicum AI Beginner Series"
 date: 2022-03-08
 featured: true
 weight: 1
-image: '/images/icons/practicumai-beginner.png'
+image: '/images/icons/practicumai_beginner.png'
 image-width: 100px
 image-height: 100px
 ---
@@ -15,7 +15,7 @@ The Practicum AI Beginner series has four modules that lead beginning learners t
 <table>
     <tr> 
         <td>
-            <a href="https://github.com/PracticumAI/ethics"><img src="/images/icons/noun_ethics_green.svg" alt="AI Ethics icon" width="500"></a>
+            <a href="https://github.com/PracticumAI/ethics"><img src="/images/icons/practicumai_ethics.png" alt="AI Ethics icon" width="500"></a>
         </td>
         <td>
             <h2><a href="https://github.com/PracticumAI/ethics">Module 1: Ethics and AI</a></h2>
@@ -32,7 +32,7 @@ The Practicum AI Beginner series has four modules that lead beginning learners t
         </td>
     </tr>
     <tr>
-        <td><a href='https://github.com/PracticumAI/python'><img src='/images/icons/noun_Python_green.svg' alt='Introduction to Python icon' width=500></a></td>
+        <td><a href='https://github.com/PracticumAI/python'><img src='/images/icons/practicumai_python.png' alt='Introduction to Python icon' width=500></a></td>
         <td>
             <h2><a href='https://github.com/PracticumAI/python'>Module 2: Introduction to Python Workshop</a></h2>
             <p>The vast majority of hands-on artificial intelligence work is currently done using the Python programming language. As such, *some* understanding of Python, in particular, and computer programming, in general, is needed to be successful in applying AI. That said, it is truly astounding how much complex AI research can be accomplished with a few lines of code!</p>
@@ -42,7 +42,7 @@ The Practicum AI Beginner series has four modules that lead beginning learners t
     </tr>
     <tr>
         <td>
-            <a href='https://classroom.github.com/a/l2VposaG'><img src='/images/icons/git_github.png' alt='Reproducibility icon' width=500></a>
+            <a href='https://classroom.github.com/a/l2VposaG'><img src='/images/icons/practicumai_git.png' alt='Reproducibility icon' width=500></a>
         </td>
         <td>
             <h2>Module 3: Reproducibility with git and GitHub.com</h2>
@@ -55,7 +55,7 @@ The Practicum AI Beginner series has four modules that lead beginning learners t
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/deep_learning'><img src='/images/icons/noun_DeepLearning_green.svg' alt='Deep Learning Foundations icon' width=500></a>
+            <a href='https://github.com/PracticumAI/deep_learning'><img src='/images/icons/practicumai_beginner.png' alt='Deep Learning Foundations icon' width=500></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/deep_learning'>Module 4: Deep Learning Foundations</a></h2>

@@ -66,7 +66,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/gan'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/gan'><img src='/images/icons/practicumai_GAN.png' alt='PracticumAI GAN courese icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/gan'>Module 6: Generative Adversarial Networks</a></h2>

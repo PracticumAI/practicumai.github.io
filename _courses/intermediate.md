@@ -16,7 +16,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
 <table>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/cnn'><img src='/images/icons/noun_NeuralNet_green.svg' alt='CNN icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/cnn'><img src='/images/icons/practicumai_intermediate.png' alt='CNN icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/cnn'>Module 1: Convolutional Neural Networks</a></h2>
@@ -36,7 +36,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/nlp'><img src='/images/icons/noun_Language_green.svg'></a>
+            <a href='https://github.com/PracticumAI/nlp'><img src='/images/icons/practicumai_intermediate.png'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/nlp'>Module 3: Natural Language Processing</a></h2>

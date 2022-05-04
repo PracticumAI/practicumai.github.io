@@ -3,7 +3,7 @@ title: "Practicum AI Intermediate Series"
 date: 2022-03-08
 featured: true
 weight: 2
-image: '/images/icons/practicumai-intermediate.png'
+image: '/images/icons/practicumai_intermediate.png'
 image-width: 100px
 image-height: 100px
 ---
@@ -26,7 +26,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/transfer'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/transfer'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/transfer'>Module 2: Transfer Learning</a></h2>
@@ -46,7 +46,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-           <a href='https://github.com/PracticumAI/rnn'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+           <a href='https://github.com/PracticumAI/rnn'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/rnn'>Module 4: Recurrent Neural Networks</a></h2>
@@ -56,7 +56,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/transformers'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/transformers'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/transformers'>Module 5: Transformers</a></h2>
@@ -66,7 +66,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/gan'><img src='/images/icons/practicumai-intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/gan'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/gan'>Module 6: Generative Adversarial Networks</a></h2>

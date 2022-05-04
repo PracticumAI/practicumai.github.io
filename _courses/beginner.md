@@ -3,7 +3,7 @@ title: "Practicum AI Beginner Series"
 date: 2022-03-08
 featured: true
 weight: 1
-image: '/images/icons/practicumai-beginner.png'
+image: '/images/icons/practicumai_beginner.png'
 image-width: 100px
 image-height: 100px
 ---
@@ -55,7 +55,7 @@ The Practicum AI Beginner series has four modules that lead beginning learners t
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/deep_learning'><img src='/images/icons/practicumai-beginner.png' alt='Deep Learning Foundations icon' width=500></a>
+            <a href='https://github.com/PracticumAI/deep_learning'><img src='/images/icons/practicumai_beginner.png' alt='Deep Learning Foundations icon' width=500></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/deep_learning'>Module 4: Deep Learning Foundations</a></h2>

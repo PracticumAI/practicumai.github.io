@@ -3,7 +3,7 @@ title: "FAIR Data for AI"
 date: 2022-03-08
 featured: false
 weight: 9
-image: '/images/icons/noun_Data_green.svg'
+image: '/images/icons/practicumai_FAIR.png'
 image-width: 100px
 image-height: 100px
 layout: course

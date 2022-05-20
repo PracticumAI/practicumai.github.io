@@ -26,7 +26,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
     </tr>
     <tr>
         <td>
-            <a href='https://github.com/PracticumAI/transfer'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
+            <a href='https://github.com/PracticumAI/transfer'><img src='/images/icons/practicumai_transfer_learning.png' alt='Practicum AI Transfer Learning course icon' width='500'></a>
         </td>
         <td>
             <h2><a href='https://github.com/PracticumAI/transfer'>Module 2: Transfer Learning</a></h2>

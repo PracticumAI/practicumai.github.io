@@ -11,6 +11,8 @@ layout: course
 
 This module covers making data for AI/ML FAIR (**F**indable, **A**ccessible, **I**nteroperable, and **R**eusable).
 
+<hr> 
+
 ## Session 1
 
 ### Before the session
@@ -31,6 +33,8 @@ Students recognize the importance of organizing data so that others can understa
 
 1. Students can explain why standardizing descriptions and organization of data is important.
 1. Students can strategize about the best ways to organize data.
+
+<hr> 
 
 ## Session 2
 
@@ -59,6 +63,8 @@ Students recognize the value of accessibly archived data, by experiencing the ch
 * For a closer look at the Cardiovascular Disease Ontology, check out the `.obo` file here: [https://github.com/OpenLHS/CVDO](https://github.com/OpenLHS/CVDO)
 * For a nice, graphical interface to an ontology, check out the [Disease Ontology](https://disease-ontology.org/). 
 * Another good example is the [Plant Phenology Ontology](https://www.ebi.ac.uk/ols/ontologies/ppo).
+
+<hr> 
 
 ## Session 3
 

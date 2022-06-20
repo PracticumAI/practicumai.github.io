@@ -11,6 +11,9 @@ layout: course
 
 This module covers making data for AI/ML FAIR (**F**indable, **A**ccessible, **I**nteroperable, and **R**eusable).
 
+ > Development of these FAIR AI/ML training modules was supported by a supplement to NIH/NIGMS [T34GM118272](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=T34GM118272&arg_ProgOfficeCode=127) (D. Julian, PI; 08/01/2021-05/31/2023).
+
+
 <hr> 
 
 ## Session 1

@@ -16,7 +16,7 @@ bodyClass: page-about
 
   <tr>
     <td><img src='/images/icons/noun_Math_green.svg' alt='Math icon' align=top></td>
-    <td><strong>Basic math is all that is needed!</strong>While AI is based in complex linear algebra and differential equations, a conceptual understanding is all that is required. AI research and development can certainly benefit from higher level math, but to *apply* AI methods, we firmly believe that modern AI frameworks (code) make this unnecessary and prevent too many people from learning AI.</td>
+    <td><strong>Basic math is all that is needed!</strong> While AI is based in complex linear algebra and differential equations, a conceptual understanding is all that is required. AI research and development can certainly benefit from higher level math, but to <i>apply</i> AI methods, we firmly believe that modern AI frameworks (code that facilitates writing AI code) make this unnecessary, and prevent too many people from learning AI.</td>
   </tr>
   
   <tr>

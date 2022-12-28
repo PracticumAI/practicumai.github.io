@@ -70,3 +70,28 @@ bodyClass: "page-courses"
     {% endfor %}
   </div>
 </div>
+
+<div class="strip">
+  <h2>Learning Paths</h2>
+  While each course stands on its own, we recommend following the sequencing, especially for the beginner series.
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% assign weighted_paths = site.paths | sort: "weight" %}
+      {% for path in weighted_paths %}
+        {% if path.featured %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="path path-summary">
+              <div class="path-content">
+                <h2 class="path-title">
+                  <a href="{{ path.url | relative_url }}">{{ path.title }}</a>
+                </h2>
+                  {% if path.image %}
+                  <div class="path-image"><img alt="{{ path.title }} logo" src="{{ path.image | relative_url }}" width="{{ path.image-width }}" height="{{ path.image-height }}" align='left' /></div>
+                  {% endif %}
+                  {{ path.content | strip_html | truncate: 250 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>

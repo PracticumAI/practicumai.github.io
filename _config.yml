@@ -20,6 +20,8 @@ collections:
     output: true
   team:
     output: true
+  paths:
+    output: true
   posts:
     output: true
 
@@ -34,6 +36,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "paths"
+    values:
+      layout: "path"
   - scope:
       path: ""
       type: "posts"

@@ -71,9 +71,16 @@ bodyClass: "page-courses"
   </div>
 </div>
 
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-lg order-2 order-md-1">
+        <h1 id="paths">Learning Paths</h1>
+        <p>While each course stands on its own, we recommend following the sequencing, especially for the beginner series.</p>
+      </div>
+</div>
+
 <div class="strip">
-  <h2>Learning Paths</h2>
-  While each course stands on its own, we recommend following the sequencing, especially for the beginner series.
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign weighted_paths = site.paths | sort: "weight" %}

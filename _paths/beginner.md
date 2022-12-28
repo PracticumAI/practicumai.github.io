@@ -1,6 +1,5 @@
 ---
 title: "Practicum AI Beginner Series"
-date: 2023-01-01
 featured: true
 weight: 1
 image: '/images/icons/practicumai_beginner.png'

@@ -28,6 +28,11 @@ collections:
     output: true
 
 defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "full_page"
   - scope:
       path: ""
       type: "courses"

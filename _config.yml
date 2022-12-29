@@ -18,10 +18,12 @@ favicon: "images/logo/Practicum_globe.png"
 collections:
   courses:
     output: true
+    sort_by: weight
   team:
     output: true
   paths:
     output: true
+    sort_by: weight
   posts:
     output: true
 

@@ -2,7 +2,7 @@
 title: "Practicum AI Intermediate Series"
 date: 2022-03-08
 featured: true
-weight: 2
+weight: 4
 image: '/images/icons/practicumai_intermediate.png'
 image-width: 100px
 image-height: 100px

@@ -13,4 +13,4 @@ This course is not an attempt to teach you everything there is to know about Pyt
 
 The Practicum AI Python course has four modules.
 
-[Click here to get started!](/python/README/) <a href='/python/README/'><img src='/images/icons/practicumai_python.png?raw=true' alt='Practicum AI Python module icon' width='100'></a>
+[Click here to get started!](/python/) <a href='/python/'><img src='/images/icons/practicumai_python.png?raw=true' alt='Practicum AI Python module icon' width='100'></a>

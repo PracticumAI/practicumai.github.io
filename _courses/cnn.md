@@ -11,4 +11,4 @@ Computer vision with Convolutional Neural Networks is the best place to continue
 
 This course, intended to be the first in our intermediate series of courses, builds on the the [Deep Learning Foundations course](/courses/deep_learning) and builds deep learning networks for image classification. 
 
-[Click here to get started!](/cnn/README/) <a href='/cnn/README/'><img src='/images/icons/practicumai_intermediate.png' alt='Practicum AI CNN course icon' width='100'></a>
+[Click here to get started!](/cnn/) <a href='/cnn/'><img src='/images/icons/practicumai_intermediate.png' alt='Practicum AI CNN course icon' width='100'></a>

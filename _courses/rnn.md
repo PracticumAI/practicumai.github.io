@@ -1,6 +1,7 @@
 ---
 title: "Recurrent Networks"
 featured: false
+weight: 9
 image: '/images/icons/practicumai_GAN.png'
 image-width: 100px
 image-height: 100px

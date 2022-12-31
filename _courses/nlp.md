@@ -1,6 +1,7 @@
 ---
 title: "Natural Language Processing"
 featured: false
+weight: 8
 image: '/images/icons/practicumai_intermediate.png'
 image-width: 100px
 image-height: 100px

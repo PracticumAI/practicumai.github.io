@@ -1,6 +1,7 @@
 ---
 title: "Generative Networks"
-featured: false
+featured: true
+weight: 6
 image: '/images/icons/practicumai_GAN.png'
 image-width: 100px
 image-height: 100px

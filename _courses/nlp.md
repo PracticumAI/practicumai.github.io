@@ -15,7 +15,7 @@ In this series, we cover "traditional" NLP, introducing the key concepts of toke
 
 Link | Method of Access
 -----|-----------------
-<a href='https://github.com/PracticumAI/nlp'><img src='../images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
+<a href='https://github.com/PracticumAI/nlp'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
 <a href='https://colab.research.google.com/github/PracticumAI/nlp'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | Access on Google Colab
 *Coming soon* | Access on UF Professional and Workforce Development
 *Coming soon* | Access on Canvas Commons

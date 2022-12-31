@@ -17,8 +17,8 @@ The Practicum AI Python course has four modules.
 
 Link | Method of Access
 -----|-----------------
-<a href='https://github.com/PracticumAI/python'><img src='../images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
-<a href='https://classroom.github.com/a/O2gz9lhY'><img src='../images/github_codespaces.png' width=50 alt='GitHub Codespaces'></a> | Create your own repository and launch GitHub Codespaces
+<a href='https://github.com/PracticumAI/python'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
+<a href='https://classroom.github.com/a/O2gz9lhY'><img src='/images/github_codespaces.png' width=50 alt='GitHub Codespaces'></a> | Create your own repository and launch GitHub Codespaces
 <a href='https://colab.research.google.com/github/PracticumAI/python'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | Access on Google Colab
 *Coming soon* | Access on UF Professional and Workforce Development
 *Coming soon* | Access on Canvas Commons

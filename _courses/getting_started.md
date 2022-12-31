@@ -17,7 +17,7 @@ Here we introduce you to artificial intelligence--it's a term we hear a lot, but
 
 Link | Method of Access
 -----|-----------------
-<a href='https://github.com/PracticumAI/getting_started'><img src='../images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
+<a href='https://github.com/PracticumAI/getting_started'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
 *Coming soon* | Access on UF Professional and Workforce Development
 *Coming soon* | Access on Canvas Commons
 

@@ -15,7 +15,7 @@ This course, intended to be the first in our intermediate series of courses, bui
 
 Link | Method of Access
 -----|-----------------
-<a href='https://github.com/PracticumAI/cnn'><img src='../images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
+<a href='https://github.com/PracticumAI/cnn'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
 *Coming soon* | Create your own repository and launch GitHub Codespaces
 <a href='https://colab.research.google.com/github/PracticumAI/cnn'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | Access on Google Colab
 *Coming soon* | Access on UF Professional and Workforce Development

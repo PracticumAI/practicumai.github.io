@@ -1,0 +1,18 @@
+---
+layout: default
+bodyClass: "page-path"
+---
+
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="course course-single">
+        {% if page.image %}
+         <div class="page-image"><img alt="{{ page.title }} logo" src="{{ page.image | relative_url }}" width="{{ page.image-width }}" height="{{ page.image-height }}" align='right' /></div>
+        {% endif %}
+        <h1 class="title">{{page.title}}</h1>
+        <div class="content">{{content}}</div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -336,3 +336,51 @@ models:
         - type: image
           name: image
           label: Image
+  paths:
+    type: page
+    label: Paths
+    file: paths.md
+    singleInstance: true
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: collection
+        label: Collection
+      - type: image
+        name: intro_image
+        label: Intro Image
+      - type: boolean
+        name: intro_image_absolute
+        label: Intro Image Absolute
+      - type: boolean
+        name: intro_image_hide_on_mobile
+        label: Intro Image Hide On Mobile
+  path:
+    type: page
+    label: path
+    folder: _path
+    match: "*"
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: datetime
+        name: date
+        label: Date
+      - type: boolean
+        name: featured
+        label: Featured
+      - type: number
+        name: weight
+        label: Weight
+        subtype: int
+      - type: enum
+        name: layout
+        options:
+          - label: path
+            value: path

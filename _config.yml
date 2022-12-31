@@ -18,12 +18,21 @@ favicon: "images/logo/Practicum_globe.png"
 collections:
   courses:
     output: true
+    sort_by: weight
   team:
     output: true
+  paths:
+    output: true
+    sort_by: weight
   posts:
     output: true
 
 defaults:
+  - 
+    scope:
+      path: ""
+    values:
+      layout: "full_page"
   - scope:
       path: ""
       type: "courses"
@@ -34,6 +43,11 @@ defaults:
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "paths"
+    values:
+      layout: "path"
   - scope:
       path: ""
       type: "posts"

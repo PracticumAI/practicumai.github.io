@@ -63,10 +63,46 @@ bodyClass: "page-courses"
           {% if course.image %}
               <div class="course-image"><img alt="{{ course.title }} logo" src="{{ course.image | relative_url }}" width="{{ course.image-width }}" height="{{ course.image-height }}" align='left' /></div>
           {% endif %}
-          <p>{{ course.content | markdownify | strip_html | truncate: 100 }}</p>
+          <p>{{ course.content | markdownify | strip_html | truncate: 250 }}</p>
         </div>
       </div>
     </div>
     {% endfor %}
   </div>
 </div>
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-lg order-2 order-md-1">
+        <h1 id="paths">Learning Paths</h1>
+        <p>While each course stands on its own, we recommend following the sequencing, especially for the beginner series.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {% assign weighted_paths = site.paths | sort: "weight" %}
+      {% for path in weighted_paths %}
+        {% if path.featured %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="path path-summary">
+              <div class="path-content">
+                <h2 class="path-title">
+                  <a href="{{ path.url | relative_url }}">{{ path.title }}</a>
+                </h2>
+                  {% if path.image %}
+                  <div class="path-image"><img alt="{{ path.title }} logo" src="{{ path.image | relative_url }}" width="{{ path.image-width }}" height="{{ path.image-height }}" align='left' /></div>
+                  {% endif %}
+                  {{ path.content | strip_html | truncate: 250 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+  

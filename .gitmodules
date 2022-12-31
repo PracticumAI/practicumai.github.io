@@ -1,3 +1,4 @@
 [submodule "fair"]
 	path = fair
 	url = https://github.com/PracticumAI/fair.git
+

@@ -2,3 +2,6 @@
 	path = fair
 	url = https://github.com/PracticumAI/fair.git
 
+[submodule "getting_started"]
+	path = getting_started
+	url = https://github.com/PracticumAI/getting_started

@@ -7,7 +7,7 @@ image-width: 100px
 image-height: 100px
 ---
 
-# Introduction to Artificial Intelligence and Practicum AI
+## Introduction to Artificial Intelligence and Practicum AI
 
 Welcome! This is the place to start your AI journey.
 
@@ -17,6 +17,7 @@ Here we introduce you to artificial intelligence--it's a term we hear a lot, but
 
 Link | Method of Access
 -----|-----------------
+<a href="/getting_started/README/"><img src='/images/logo/Practicum_globe.230px.png' width=50 alt='Practiucm AI Globe logo'></a> | Access in Practicum AI website
 <a href='https://github.com/PracticumAI/getting_started'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
 *Coming soon* | Access on UF Professional and Workforce Development
 *Coming soon* | Access on Canvas Commons

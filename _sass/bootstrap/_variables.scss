@@ -125,7 +125,7 @@ $enable-hover-media-query:                    false !default; // Deprecated, no 
 $enable-grid-classes:                         true !default;
 $enable-pointer-cursor-for-buttons:           true !default;
 $enable-print-styles:                         true !default;
-$enable-responsive-font-sizes:                false !default;
+$enable-responsive-font-sizes:                true !default;
 $enable-validation-icons:                     true !default;
 $enable-deprecation-messages:                 true !default;
 
@@ -291,7 +291,7 @@ $font-size-sm:                $font-size-base * .875 !default;
 
 $font-weight-lighter:         lighter !default;
 $font-weight-light:           300 !default;
-$font-weight-normal:          400 !default;
+$font-weight-normal:          normal !default;
 $font-weight-bold:            700 !default;
 $font-weight-bolder:          bolder !default;
 

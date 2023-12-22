@@ -20,7 +20,7 @@ This course will teach you about some of the tools recommended for building, tes
 Link | Method of Access
 -----|-----------------
 <a href="/computing_for_ai/README/"><img src='/images/logo/Practicum_globe.230px.png' width=50 alt='Practiucm AI Globe logo'></a> | <a href="/computing_for_ai/README/">Access in Practicum AI website</a>.
-<a href='https://github.com/PracticumAI/computing_for_ai'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | <a href='https://github.com/PracticumAI/computing_for_ai'>Access on GitHub.com</a>
+<a href='https://github.com/PracticumAI/computing_for_ai'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | <a href='https://github.com/PracticumAI/computing_for_ai'>Access the code repositories on GitHub.com</a>
 *Coming soon* | Access on UF Professional and Workforce Development
 *Coming soon* | Access on Canvas Commons
 

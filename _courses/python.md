@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Python"
+title: "Python for AI"
 featured: true
 weight: 2
 image: '/images/icons/practicumai_python.png'

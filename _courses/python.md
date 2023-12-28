@@ -1,7 +1,7 @@
 ---
 title: "Python for AI"
 featured: true
-weight: 2
+weight: 3
 image: '/images/icons/practicumai_python.png'
 image-width: 100px
 image-height: 100px
@@ -17,8 +17,7 @@ The Practicum AI Python course has four modules.
 
 Link | Method of Access
 -----|-----------------
-<a href='https://github.com/PracticumAI/python'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
-<a href='https://classroom.github.com/a/O2gz9lhY'><img src='/images/github_codespaces.png' width=50 alt='GitHub Codespaces'></a> | Create your own repository and launch GitHub Codespaces
-<a href='https://colab.research.google.com/github/PracticumAI/python'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | Access on Google Colab
-*Coming soon* | Access on UF Professional and Workforce Development
-*Coming soon* | Access on Canvas Commons
+<a href="/python_for_ai/README/"><img src='/images/logo/Practicum_globe.230px.png' width=50 alt='Practiucm AI Globe logo'></a> | <a href="/python_for_ai/README/">Access in Practicum AI website</a>.
+<a href='https://github.com/PracticumAI/python_for_ai'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | <a href='https://github.com/PracticumAI/python_for_ai'>Access the code repositories on GitHub.com</a>
+<a href='https://colab.research.google.com/github/PracticumAI/python_for_ai'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | [Access the notebooks on Google Colab](https://colab.research.google.com/github/PracticumAI/python_for_ai)
+.*Coming soon* | Access on Canvas Commons

@@ -3,7 +3,7 @@ title: "Data Wrangling with Python"
 image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_python.png'
 image-width: 80px
 image-height: 80px
-layout: full_page_no_title
+layout: full_page
 ---
 
 ![Data wrangling with Python banner](/images/python_m2_data_wrangling_banner.png)

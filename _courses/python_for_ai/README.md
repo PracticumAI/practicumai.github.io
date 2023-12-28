@@ -3,7 +3,7 @@ title: "Python for AI: A Practicum AI Course"
 image: '/images/icons/practicumai_python.png'
 image-width: 100px
 image-height: 100px
-layout: full_page_no_title
+layout: page_no_title
 ---
 
 ![Python for AI Getting started banner](/images/python_for_ai_getting_started.png)

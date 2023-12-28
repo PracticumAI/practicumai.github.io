@@ -3,7 +3,7 @@ title: "A Brief Introduction to Python"
 image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_python.png'
 image-width: 80px
 image-height: 80px
-layout: full_page_no_title
+layout: page_no_title
 ---
 
 ![A brief intro to Python banner](/images/python_m1_banner.png)

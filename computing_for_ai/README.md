@@ -3,7 +3,7 @@ title: "Computing for AI: A Practicum AI Course"
 image: '/images/icons/practicumai_computing_for_ai.png'
 image-width: 100px
 image-height: 100px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![Computing for AI Getting started banner](/images/computing_for_ai_start_here.png)

@@ -26,9 +26,9 @@ Learning a new programming language can be a challenge. That's why it's importan
 
 ## Modules
 
-* Module 1: A Brief Introduction of Python
-* Module 2: Data Wrangling with Python
-* Module 3: Tools for Coding
+* [Module 1: A Brief Introduction of Python](/python_for_ai/01_brief_intro_to_python/)
+* [Module 2: Data Wrangling with Python](/python_for_ai/02_data_wrangling/)
+* [Module 3: Tools for Coding](/python_for_ai/03_tools_for_coding/)
 
 ## Getting Help
 

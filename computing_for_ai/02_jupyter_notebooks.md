@@ -48,7 +48,7 @@ In [Module 1](/computing_for_ai/01_the_tools_for_ai/), you selected an HPC envir
 
 Google Colab | HiPerGator (or similar HPC system)
 -------------|-----------------------------------
-[![Google Colab icon](/images/icons/Google_Colaboratory_Logo-cropped.png)](/computing_for_ai/02.2_colab_notebook/)<br>[Use Google Colab to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_colab_notebook/) | [![HiPerGator-AI icon](/images/icons/hpg_AI_logo_blue-orange.png)](/computing_for_ai/02.2_hipergator_notebook/)<br>[Use HiPerGator or another HPC to Launch Jupyter and Open a Notebook]
+[![Google Colab icon](/images/icons/Google_Colaboratory_Logo-cropped.png)](/computing_for_ai/02.2_colab_notebook/)<br>[Use Google Colab to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_colab_notebook/) | [![HiPerGator-AI icon](/images/icons/hpg_AI_logo_blue-orange.png)](/computing_for_ai/02.2_hipergator_notebook/)<br>[Use HiPerGator or another HPC to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_hipergator_notebook/)
 
 ## Practice and Apply
 

@@ -80,7 +80,7 @@ In Jupyter, click the Git tab on the left, and click "Clone a Repository"
 * From the **File Menu** select **Open Notebook**.
 * Click on the **GitHub tab** and then type **your GitHub username** followed by the name of the repository: e.g. **username/python-for-ai**.
 
-[Detailed step-by-step instructions for Google Colab.](/python_for_ai/01.2_Colab_setup.md)
+[Detailed step-by-step instructions for Google Colab.](/python_for_ai/01.2_Colab_setup/)
 
 ### Step 3: Work through the Notebook
 

@@ -7,8 +7,6 @@ image-width: 100px
 image-height: 100px
 ---
 
-## Computing for AI: A *Practicum AI* course
-
 ## Welcome to the *Practicum AI*: Computing for AI Course! 
 
 This course is the second in the *Practicum AI* beginner series. This course can also be taken on its own to familiarize yourself with some important tools used in computational science applications.  

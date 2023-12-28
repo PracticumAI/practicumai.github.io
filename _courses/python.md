@@ -20,4 +20,4 @@ Link | Method of Access
 <a href="/python_for_ai/README/"><img src='/images/logo/Practicum_globe.230px.png' width=50 alt='Practiucm AI Globe logo'></a> | <a href="/python_for_ai/README/">Access in Practicum AI website</a>.
 <a href='https://github.com/PracticumAI/python_for_ai'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | <a href='https://github.com/PracticumAI/python_for_ai'>Access the code repositories on GitHub.com</a>
 <a href='https://colab.research.google.com/github/PracticumAI/python_for_ai'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | [Access the notebooks on Google Colab](https://colab.research.google.com/github/PracticumAI/python_for_ai)
-.*Coming soon* | Access on Canvas Commons.
+*Coming soon* | Access on Canvas Commons.

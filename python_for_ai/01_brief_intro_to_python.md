@@ -52,7 +52,7 @@ If you took our Computing for AI course, you have been through the steps of maki
 * Go to the [GitHub repository for Python for AI](https://github.com/PracticumAI/python-for-ai).
 * Click the "Use this template" button and make a copy in your own account
 
-> [Detailed step-by-step instructions](01.1_create_repo_details/).
+> [Detailed step-by-step instructions](/python_for_ai/01.1_create_repo_details/).
 
 ### Step 2. Launch a HiPerGator or Google Colab session
 
@@ -71,7 +71,7 @@ Follow the instructions for the system you are using:
 * Return to your copy of the template, click the **<>Code button**, the **SSH link** (assuming you have SSH keys set up from the Computing for AI course), and copy the URL.
 In Jupyter, click the Git tab on the left, and click "Clone a Repository"
 
-[Detailed step-by-step instructions for HiPerGator.](01.2_HiPerGator_setup/)
+[Detailed step-by-step instructions for HiPerGator.](/python_for_ai/01.2_HiPerGator_setup/)
 
 #### Launch a Google Colab session
 
@@ -80,7 +80,7 @@ In Jupyter, click the Git tab on the left, and click "Clone a Repository"
 * From the **File Menu** select **Open Notebook**.
 * Click on the **GitHub tab** and then type **your GitHub username** followed by the name of the repository: e.g. **username/python-for-ai**.
 
-[Detailed step-by-step instructions for Google Colab.](01.2_Colab_setup.md)
+[Detailed step-by-step instructions for Google Colab.](/python_for_ai/01.2_Colab_setup.md)
 
 ### Step 3: Work through the Notebook
 

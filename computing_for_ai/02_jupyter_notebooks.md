@@ -3,7 +3,7 @@ title: "Jupyter Notebooks"
 image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png'
 image-width: 80px
 image-height: 80px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![Jupyter Notebooks banner](/images/M2_jupyter_notebooks_banner.png)
@@ -48,7 +48,7 @@ In [Module 1](/computing_for_ai/01_the_tools_for_ai/), you selected an HPC envir
 
 Google Colab | HiPerGator (or similar HPC system)
 -------------|-----------------------------------
-[![Google Colab icon](/images/icons/Google_Colaboratory_Logo-cropped.png)](/computing_for_ai/02.2_colab_notebook/)<br>[Use Google Colab to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_colab_notebook/) | [![HiPerGator-AI icon](/images/icons/hpg_AI_logo_blue-orange.png)](/computing_for_ai/02.2_hipergator_notebook/)<br>[Use HiPerGator or another HPC to Launch Jupyter and Open a Notebook]
+[![Google Colab icon](/images/icons/Google_Colaboratory_Logo-cropped.png)](/computing_for_ai/02.2_colab_notebook/)<br>[Use Google Colab to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_colab_notebook/) | [![HiPerGator-AI icon](/images/icons/hpg_AI_logo_blue-orange.png)](/computing_for_ai/02.2_hipergator_notebook/)<br>[Use HiPerGator or another HPC to Launch Jupyter and Open a Notebook](/computing_for_ai/02.2_hipergator_notebook/)
 
 ## Practice and Apply
 

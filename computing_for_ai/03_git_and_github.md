@@ -3,7 +3,7 @@ title: "Jupyter Notebooks"
 image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png'
 image-width: 80px
 image-height: 80px
-layout: page_no_title
+layout: full_page_no_title
 ---
 
 ![Git and Github banner](/images/M3_git_and_github.png)

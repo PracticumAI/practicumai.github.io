@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Networks"
 featured: true
-weight: 4
+weight: 5
 image: '/images/icons/practicumai_intermediate.png'
 image-width: 100px
 image-height: 100px

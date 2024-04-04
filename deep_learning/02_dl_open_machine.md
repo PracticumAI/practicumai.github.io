@@ -34,9 +34,9 @@ By the end of this module, students will be able to:
 
 * [Neural Network Neurons](/deep_learning/02.1_network_neurons/)
 * [Neuron Function](/deep_learning/02.2_neuron_function/)
-* Where Do Weights and Bias Come From?
-* The Training Process
-* Model Deployment and Neurons
+* [Where Do Weights and Bias Come From?](/deep_learning/02.3_where_do_weights_come_from/)
+* [The Training Process](/deep_learning/02.4_training_process/)
+* [Model Deployment and Neurons](/deep_learning/02.5_model_deployment/)
 
 ## Exercise
 

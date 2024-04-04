@@ -32,8 +32,8 @@ By the end of this module, students will be able to:
 ## Topics
 
 * [Understanding Gradient Descent](/deep_learning/03.1_gradient_descent/)
-* Overfitting and Underfitting
-* Transfer Learning & Fine Tuning
+* [Overfitting and Underfitting](/deep_learning/03.2_overfitting_underfitting/)
+* [Transfer Learning & Fine Tuning](/deep_learning/03.3_transfer_learning/)
 
 ## Hands-on Exercise
 

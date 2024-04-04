@@ -17,7 +17,7 @@ This course is intended to demystify the concepts of neural networks and deep le
 ## In this course we’ll cover:
 
 * **Module 1**: [Getting Started with Deep Learning](/deep_learning/01_getting_started_dl/)
-* **Module 2**: Deep Learning, Opening the Machine
+* **Module 2**: [Deep Learning, Opening the Machine](/deep_learning/02_dl_open_machine/)
 * **Module 3**: How to Tune Your Models
 
 Good luck!

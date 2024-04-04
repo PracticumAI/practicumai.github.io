@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with Deep Learning"
-image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png'
+image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_deep_learning.png'
 image-width: 80px
 image-height: 80px
 layout: full_page_no_title
@@ -45,10 +45,12 @@ Now that we've thoroughly explored the basics of neural networks, let's get our 
 The notebooks for the Deep Learning Foundations course are located at the [deep learning directory on our Practicum AI GitHub](https://github.com/PracticumAI/deep_learning).
 
 * Click the "Use this template" button to make your copy of the repository.
-   * If you need details on how to do this, please see this page on creating your GitHub repository from the template.
+   * If you need details on how to do this, please [see this page on creating your GitHub repository from the template](/deep_learning/create_repo/).
 * Open a session on HiPerGator, Google Colab, or your HPC (we will want a GPU for these exercises).
    * If you need details for this step, please view the appropriate page:
-      * Launching Jupyter on HiPerGator.
-      * Launching a Google Colab session.
+      * [Launching Jupyter on HiPerGator](/deep_learning/launch_jupyter_HPG/).
+      * [Launching a Google Colab session](/deep_learning/launch_colab/).
 * Work through notebook **01_deep_learning_tour.ipynb**.
-* Stuck or need to see this in action? Watch the [Deep Learning Tour Walkthrough video]https://mediasite.video.ufl.edu/Mediasite/Play/cd4b46acbbfa432c9f6e57bc2c0dc33a1d) (28:02).
+* Stuck or need to see this in action? Watch the Deep Learning Tour Walkthrough video:
+
+  * [![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/cd4b46acbbfa432c9f6e57bc2c0dc33a1d) [Video: Deep Learning Tour Walkthrough video (28:02)](https://mediasite.video.ufl.edu/Mediasite/Play/cd4b46acbbfa432c9f6e57bc2c0dc33a1d)

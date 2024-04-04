@@ -1,6 +1,6 @@
 ---
 title: "The Tools for AI"
-image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_computing_for_ai.png'
+image: 'https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/main/images/icons/practicumai_deep_learning.png'
 image-width: 80px
 image-height: 80px
 layout: full_page_no_title

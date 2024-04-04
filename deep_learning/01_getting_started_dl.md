@@ -35,8 +35,8 @@ By the end of this module, you will be able to:
 * [What are Neural Networks?](/deep_learning/01.1_what_are_neural_networks/)
 * [What is Deep Learning?](/deep_learning/01.2_what_is_deep_learning/)
 * [What can I do with Neural networks?](/deep_learning/01.3_neural_networks/)
-* Types of Networks
-* Python AI Frameworks
+* [Types of Networks](/deep_learning/01.4_types_of_networks/)
+* [Python AI Frameworks](/deep_learning/01.5_python_frameworks/)
 
 ## Exercise
 

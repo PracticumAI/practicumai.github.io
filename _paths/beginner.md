@@ -40,7 +40,7 @@ All courses are available free from the links below, or register via the [UF Pro
     </tr>
     <tr>
         <td>
-            <a href='/courses/deep_learning/'><img src='/images/icons/practicumai_beginner.png' alt='Deep Learning Foundations icon' width=500></a>
+            <a href='/courses/deep_learning/'><img src='/images/icons/practicumai_deep_learning.png' alt='Deep Learning Foundations icon' width=500></a>
         </td>
         <td>
             <h2><a href='/courses/deep_learning/'>Course 4: Deep Learning Foundations</a></h2>

@@ -2,7 +2,7 @@
 title: "Deep Learning Foundations"
 featured: true
 weight: 4
-image: '/images/icons/practicumai_beginner.png'
+image: '/images/icons/practicumai_deep_learning.png'
 image-width: 100px
 image-height: 100px
 ---

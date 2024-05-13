@@ -28,7 +28,8 @@ By the end of this module, you will be able to:
 
 ## Watch
 
-**Video coming soon**
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/17ce9da0b84c466d9addc9316fd1fb761d) [Video: Deep Learning Foundations Intro Video](https://mediasite.video.ufl.edu/Mediasite/Play/17ce9da0b84c466d9addc9316fd1fb761d)
+
 
 ## Topics
 

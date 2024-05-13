@@ -27,7 +27,8 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-**Video coming soon**
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/36af27d5b6144782a0ce02faaae605941d) [Video: How to Tune Your Models](https://mediasite.video.ufl.edu/Mediasite/Play/36af27d5b6144782a0ce02faaae605941d)
+
 
 ## Topics
 

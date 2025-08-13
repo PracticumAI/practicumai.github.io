@@ -40,7 +40,7 @@ By the end of this module, students will be able to:
 
 Through this exercise, you'll gain hands-on experience applying deep learning to solve another image recognition task. As discussed above, the loss function, optimizer, and more are all hyperparameters that can be adjusted to try to train a better model. You will get some experience with hyperparameter optimization.
 
-Work on notebook **03_bees_vs_wasps.ipynb**.
+Either using the TensorFlow or Pytorch versions, work on notebook **03_bees_vs_wasps.ipynb**.
 
 ## Conclusion
 

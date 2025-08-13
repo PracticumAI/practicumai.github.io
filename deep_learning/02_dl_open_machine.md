@@ -45,7 +45,9 @@ By the end of this module, students will be able to:
 
 The perceptron is relatively simple—only one neuron to worry about! If this simple network seems complicated to code, don’t worry! We are doing most of the coding from scratch in this exercise. This will help you see how neurons work and follow individual components through the training process. After this notebook though, we’ll leave the details to the AI frameworks and use APIs that make all of this much easier!
 
-Work through notebook **02.1_code_a_perceptron.ipynb**.
+Using either the TensorFlow or PyTorch versions of the notebook:
+
+* Work through notebook **02.1_code_a_perceptron.ipynb**.
 
 ### Network Capacity
 
@@ -59,4 +61,4 @@ Network capacity refers to the complexity or flexibility of a neural network to 
 
 Due to the magic of universal approximation, the tools that let us program a perceptron can be expanded to recognize images! In the following Jupyter Notebook, we’ll go more in-depth with how to create a model from layers and train it!
 
-Work through notebook **02.2_mnist_classifier.ipynb**.
+* Work through notebook **02.2_mnist_classifier.ipynb**.

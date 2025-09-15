@@ -40,7 +40,7 @@ Click on the pages below to get set up with Jupyter Notebooks.
 
 ### Step 1: Create your Repository from the Template
 
-See the [Create Your Repository page](/computing_for_ai/02.1_creat_repo/) for details of creating your repository.
+See the [Create Your Repository page](/computing_for_ai/02.1_create_repo/) for details of creating your repository.
 
 ### Step 2 Launch Jupyter and Open a Notebook
 

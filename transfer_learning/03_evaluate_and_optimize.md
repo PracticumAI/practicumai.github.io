@@ -36,11 +36,11 @@ Optimizing and Evaluating Transfer (11:55) (slides, script)
 
 Click on the accordions links read the materials within.
 
-* Choosing the Right Pre-Trained Model
-* Transfer Learning vs. Full Training
-* Evaluating Transfer Learning Techniques
-* Performance Evaluation: Measuring the Effectiveness of Transfer Learning
-* Common Transfer Learning Issues & Troubleshooting Strategies
+* [Choosing the Right Pre-Trained Model](03.1_choosing_the_right_model.md)
+* [Transfer Learning vs. Full Training](03.2_tl_vs_training.md)
+* [Evaluating Transfer Learning Techniques](03.3_evaluating_tl_techniques.md)
+* [Performance Evaluation: Measuring the Effectiveness of Transfer Learning](03.4_performance_evaluation.md)
+* [Common Transfer Learning Issues & Troubleshooting Strategies](03.5_common_tl_problems.md)
 
 ## Practice and Apply
 

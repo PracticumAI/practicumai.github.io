@@ -27,8 +27,7 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-
-Transfer Learning Implementation (11:17) (slides, script)
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/1f59e7811ca646a9a9725457af5d83ff1d) [Video: Transfer Learning Implementation](https://mediasite.video.ufl.edu/Mediasite/Play/1f59e7811ca646a9a9725457af5d83ff1d) (11:17)
 
 ## Topics
 

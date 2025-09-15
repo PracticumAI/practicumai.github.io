@@ -30,8 +30,7 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-
-Transfer Learning Concepts (16:58) (slides, script)
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/4bb5d4003aa04ef58a2fff5beb4224781d) [Video: Transfer Learning Concepts](https://mediasite.video.ufl.edu/Mediasite/Play/4bb5d4003aa04ef58a2fff5beb4224781d) (16:58)
 
 ## Topics
 

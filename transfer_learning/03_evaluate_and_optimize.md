@@ -29,8 +29,7 @@ By the end of this module, students will be able to:
 
 ## Watch
 
-
-Optimizing and Evaluating Transfer (11:55) (slides, script)
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/8e08442f86b845b5be440a06f62ec17b1d) [Video: Optimizing and Evaluating Transfer Learning](https://mediasite.video.ufl.edu/Mediasite/Play/8e08442f86b845b5be440a06f62ec17b1d) (11:55)
 
 ## Topics
 

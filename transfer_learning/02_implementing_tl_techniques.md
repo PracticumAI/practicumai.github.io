@@ -34,10 +34,10 @@ Transfer Learning Implementation (11:17) (slides, script)
 
 Click on the links below read the materials within.
 
-* Extracting Features
-* Time for a tune-up
-* My friend, LoRA
-* Comparing Transfer Learning Strategies
+* [Extracting Features](02.1_extracting_features.md)
+* [Time for a tune-up](02.2_time_for_a_tune-up.md)
+* [My friend, LoRA](02.3_my_friend_lora.md)
+* [Comparing Transfer Learning Strategies](02.4_comparing_tl_strategies.md)
 
 ## Practice and Apply
 

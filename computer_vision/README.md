@@ -16,7 +16,11 @@ Computer vision primarily refers to the field of computer science that focuses o
 
 In Module 1, we will explore the nuances among the computer vision tasks of image classification, object detection, and image segmentation and explain how they work. By the end, you'll be ready to instantiate and employ a computer vision model to make predictions.
 
-In this course, we’ll cover:
+## Watch
+
+[![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/49c280c3542e4bd0b96c6084caa508ed1d) [Video: Introduction to Computer Vision](https://mediasite.video.ufl.edu/Mediasite/Play/49c280c3542e4bd0b96c6084caa508ed1d)
+
+## In this course, we’ll cover:
 
 * Module 1: [Computer Vision Concepts](01_computer_vision_concepts.md)
 * Module 2: Understanding Computer Vision Tasks

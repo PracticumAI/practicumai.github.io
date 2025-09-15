@@ -16,7 +16,7 @@ For the vast majority of AI practitioners, there is little need to develop model
 
 [![Thumbnail screenshot of a Practicum AI video](/images/video_thumbnail.png)](https://mediasite.video.ufl.edu/Mediasite/Play/0b155340efa54838ba1db49377ccf68e1d) [Video: Introduction to Transfer Learning](https://mediasite.video.ufl.edu/Mediasite/Play/0b155340efa54838ba1db49377ccf68e1d)
 
-In this course, we’ll cover:
+## In this course, we’ll cover:
 
 * Module 1: [Transfer Learning Concepts](01_transfer_learning_concepts.md)
 * Module 2: [Implementing Transfer Learning Techniques](02_implementing_tl_techniques.md)

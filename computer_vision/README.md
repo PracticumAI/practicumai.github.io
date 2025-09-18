@@ -22,7 +22,7 @@ In Module 1, we will explore the nuances among the computer vision tasks of imag
 
 ## In this course, we’ll cover:
 
-* Module 1: [Computer Vision Concepts](01_computer_vision_concepts.md)
-* Module 2: [Understanding Computer Vision Tasks](02_understanding_cv_tasks.md)
-* Module 3: [Optimizing Computer Vision Models](03_optimizing_cv_models.md)
+* Module 1: [Computer Vision Concepts](/computer_vision/01_computer_vision_concepts.md)
+* Module 2: [Understanding Computer Vision Tasks](/computer_vision/02_understanding_cv_tasks.md)
+* Module 3: [Optimizing Computer Vision Models](/computer_vision/03_optimizing_cv_models.md)
 

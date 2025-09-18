@@ -1,7 +1,7 @@
 ---
 title: "Transfer Learning"
-featured: false
-weight: 7
+featured: true
+weight: 6
 image: '/images/icons/practicumai_transfer_learning.png'
 image-width: 100px
 image-height: 100px

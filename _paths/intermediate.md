@@ -16,56 +16,20 @@ Intended for learners who have a basic foundation in Python and AI (those that h
 <table>
     <tr>
         <td>
-            <a href='/_courses/cnn'><img src='/images/icons/practicumai_intermediate.png' alt='CNN icon' width='500'></a>
+            <a href='/_courses/computer_vision'><img src='/images/icons/practicumai_computer_vision.png' alt='Practicum AI Computer Vision course icon' width='500'></a>
         </td>
         <td>
-            <h2><a href='/_courses/cnn'>Convolutional Neural Networks</a></h2>
-            <p>This series of modules introduces learners to convolutional neural networks (CNNs) for image classification. CNNs revolutionized computer vision and are one of the key concepts in deep learning.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href='/_courses/transfer'><img src='/images/icons/practicumai_transfer_learning.png' alt='Practicum AI Transfer Learning course icon' width='500'></a>
-        </td>
-        <td>
-            <h2><a href='/_courses/transfer'>Transfer Learning</a></h2>
-            <p>This module covers transfer learning, the process of starting with a model that has been trained on one task and adapting it for a new task. Just as you don't set off to learn a new task from scratch, with no understanding of the world, transfer learning allows the computer to take information learned on other datasets and apply that knowledge when faced with a new dataset and task.</p>
+            <h2><a href='/_courses/computer_vision'>Computer Vision</a></h2>
+            <p>TComputer vision primarily refers to the field of computer science that focuses on developing techniques that enable computers to understand and interpret visual information from the world. It involves algorithms and systems for acquiring, processing, analyzing, and understanding images and, in some cases, high-dimensional data from the real world (such as hyperspectral imaging or multi-modal models). The goal is to emulate human visual perception, though the applications can be broader. The advancements in deep learning, particularly convolutional neural networks (CNNs) and, more recently, vision transformers (ViTs), have significantly propelled the capabilities in this domain.</p>
         </td>
     </tr>
     <tr>
         <td>
-            <a href='/_courses/nlp'><img src='/images/icons/practicumai_intermediate.png'></a>
+            <a href='/_courses/transfer_learning'><img src='/images/icons/practicumai_transfer_learning.png' alt='Practicum AI Transfer Learning course icon' width='500'></a>
         </td>
         <td>
-            <h2><a href='/_courses/nlp'>Natural Language Processing</a></h2>
-            <p>This series of modules introduces learners to natural language processing (NLP). NLP is used in everything from recommender systems that suggest related products when you shop online to automated translation and speach to text.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-           <a href='/_courses/rnn'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
-        </td>
-        <td>
-            <h2><a href='/_courses/rnn'>Recurrent Neural Networks</a></h2>
-            <p>This series of modules introduces learners to recurrent neural networks (RNNs). RNNs are used in analyzing time series data, where knowledge of the state at previous time points is helpful in predicting a future time point.Applications include forecasting stock prices to predicting patient outcomes based on treatment and vitals over time.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href='/_courses/transformers'><img src='/images/icons/practicumai_intermediate.png' alt='PracticumAI Intermediate Series icon' width='500'></a>
-        </td>
-        <td>
-            <h2><a href='/_courses/transformers'>Transformers</a></h2>
-            <p>Initially applied to NLP, transformers <i>transformed</i> 😉 natural language processing and have continued to find new applications.</p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href='/_courses/gan'><img src='/images/icons/practicumai_GAN.png' alt='PracticumAI GAN courese icon' width='500'></a>
-        </td>
-        <td>
-            <h2><a href='/_courses/gan'>Generative Adversarial Networks</a></h2>
-            <p>This series of modules introduces learners to generative adversarial networks (GANs). GANs work with two networks, one trained to produce fake output trying to make output that the second network cannot distinguish from real output. Music and image generation are common applications.</p>
+            <h2><a href='/_courses/transfer_learning'>Transfer Learning</a></h2>
+            <p>For the vast majority of AI practitioners, there is little need to develop models from scratch! In most cases, there are models that have already been developed and can be reused either directly or with minimal modification for new tasks. Transfer learning is the process of taking a pretrained model and updating it to work in a new situation. Most AI applications involve some aspect of transfer learning. This course will introduce you to the basics of using transfer learning to harness the vast number of pretrained models. Using transfer learning reduces the amount of training data required, speeds up AI application development, and leverages prior work to move your project forward faster.</p>
         </td>
     </tr>
 <table>

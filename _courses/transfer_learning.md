@@ -20,7 +20,7 @@ In this course, we’ll cover:
 Link | Method of Access
 -----|-----------------
 <a href="/tranfer_learning/README/"><img src='/images/logo/Practicum_globe.230px.png' width=50 alt='Practiucm AI Globe logo'></a> | <a href="/transfer_learning/README/">Access in Practicum AI website</a>.
-*Coming soon* | Access on UF Professional and Workforce Development
+<a href="https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=19428727&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506&_gl=1*b9e32f*_ga*NjkwMTc0MTk0LjE3Mzc4NDg3NzQ.*_ga_QRS76RMM2T*czE3NTg2Njg1NTIkbzQkZzEkdDE3NTg2Njg2MjQkajYwJGwwJGgw*_gcl_au*MTM4MTQ1MTU4OC4xNzU4NjU1OTQz*_ga_P8DV6LYX8P*czE3NTg2Njg1NTIkbzQkZzEkdDE3NTg2Njg2MjQkajYwJGwwJGgxNTg0OTU3NzE1"><img src="/images/logo/UF.png" width=50></a> | <a href="https://reg.pwd.aa.ufl.edu/search/publicCourseSearchDetails.do?method=load&courseId=19428727&selectedProgramAreaId=1015758&selectedProgramStreamId=1016506&_gl=1*b9e32f*_ga*NjkwMTc0MTk0LjE3Mzc4NDg3NzQ.*_ga_QRS76RMM2T*czE3NTg2Njg1NTIkbzQkZzEkdDE3NTg2Njg2MjQkajYwJGwwJGgw*_gcl_au*MTM4MTQ1MTU4OC4xNzU4NjU1OTQz*_ga_P8DV6LYX8P*czE3NTg2Njg1NTIkbzQkZzEkdDE3NTg2Njg2MjQkajYwJGwwJGgxNTg0OTU3NzE1">Access via <img src="/images/logo/PWD-blue.png" alt="UF Professional and Workforce Development logo" width="50%"></a>
 *Coming soon* | Access on Canvas Commons
 <a href='https://github.com/PracticumAI/transfer_learning'><img src='/images/GitHub-Mark.png' alt='GitHub.com logo' width=50></a> | Access on GitHub.com
 <a href='https://github.com/PracticumAI/transfer_learning'><img src='https://colab.research.google.com/assets/colab-badge.svg' alt='Open in Colab link'></a> | Access on Google Colab

@@ -20,7 +20,7 @@ Intended for learners who have a basic foundation in Python and AI (those that h
         </td>
         <td>
             <h2><a href='/_courses/computer_vision'>Computer Vision</a></h2>
-            <p>TComputer vision primarily refers to the field of computer science that focuses on developing techniques that enable computers to understand and interpret visual information from the world. It involves algorithms and systems for acquiring, processing, analyzing, and understanding images and, in some cases, high-dimensional data from the real world (such as hyperspectral imaging or multi-modal models). The goal is to emulate human visual perception, though the applications can be broader. The advancements in deep learning, particularly convolutional neural networks (CNNs) and, more recently, vision transformers (ViTs), have significantly propelled the capabilities in this domain.</p>
+            <p>Computer vision primarily refers to the field of computer science that focuses on developing techniques that enable computers to understand and interpret visual information from the world. It involves algorithms and systems for acquiring, processing, analyzing, and understanding images and, in some cases, high-dimensional data from the real world (such as hyperspectral imaging or multi-modal models). The goal is to emulate human visual perception, though the applications can be broader. The advancements in deep learning, particularly convolutional neural networks (CNNs) and, more recently, vision transformers (ViTs), have significantly propelled the capabilities in this domain.</p>
         </td>
     </tr>
     <tr>

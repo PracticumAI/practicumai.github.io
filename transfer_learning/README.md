@@ -20,5 +20,5 @@ For the vast majority of AI practitioners, there is little need to develop model
 
 * Module 1: [Transfer Learning Concepts](/transfer_learning/01_transfer_learning_concepts/)
 * Module 2: [Implementing Transfer Learning Techniques](/transfer_learning/02_implementing_tl_techniques/)
-* Module 3: [Evaluating and Optimizing Transfer Learning](/transfer_learning/03_evaluate_optimize/)
+* Module 3: [Evaluating and Optimizing Transfer Learning](/transfer_learning/03_evaluate_and_optimize/)
 

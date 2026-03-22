@@ -12,7 +12,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     ffi (1.17.2)
     forwardable-extended (2.6.0)
     google-protobuf (4.32.1)
@@ -52,7 +51,7 @@ GEM
       sass-embedded (~> 1.75)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    json (2.14.1)
+    json (2.15.2.1)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
@@ -87,7 +86,6 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
-  x64-mingw32
   x86_64-linux
 
 DEPENDENCIES

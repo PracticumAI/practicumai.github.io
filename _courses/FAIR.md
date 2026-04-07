@@ -26,7 +26,7 @@ Before starting this session, [please take this quick pre-assessment](https://uf
 
 [Exercise 1](/fair/FAIR_Exercise_1/): A Hands-on exploration of data in spreadsheets.
 
-<a href='/fair/FAIR_Exercise_1/'><img src='/fair/images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' width='500' style='padding: 0px 0px 0px 20px'></a>
+<a href='/fair/FAIR_Exercise_1/'><img src='/fair/images/np_Group_runners_Jacob_Lund_Photography_5QPlV0_free.jpg' align='right' alt="A group of runners running on a forest trail" width='500' style='padding: 0px 0px 0px 20px'></a>
 
 ### Objectives
 

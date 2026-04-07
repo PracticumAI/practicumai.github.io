@@ -54,3 +54,6 @@ In this module, we explored essential concepts and techniques in machine learnin
 
 This module provided a foundational understanding of how gradient descent drives the learning process in machine learning and deep learning models.
 
+## Next Steps
+
+When you feel you're ready for more advanced topics, [check out our Intermediate series](https://practicumai.org/paths/intermediate/). In the Intermediate series we take a closer look at such machine learning techniques as Computer Vision and Transfer Learning.

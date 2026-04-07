@@ -8,7 +8,7 @@ layout: full_page_no_title
 
 ![Tools for Coding banner](/images/python_m3_tools_banner.png)
 
-<img src='/images/frustrated_coder.png' width=200 align='right'>Let's face it: coding can be frustrating at times! Minor errors can cause big problems, and learning the correct syntax can be challenging. This can sometimes lead to frustration! If you haven't already, you will almost certainly encounter error messages, and some of those can be intimidating and hard to decipher. In this module, we will intentionally introduce several common errors and help you fix them. Part of learning to program is learning how to read error messages and figure out how to fix the issue.
+<img src='/images/frustrated_coder.png' alt="An image with a computer creen showing code and a woman looking frustrated. A cat is hanging over the computer screen" width=200 align='right'>Let's face it: coding can be frustrating at times! Minor errors can cause big problems, and learning the correct syntax can be challenging. This can sometimes lead to frustration! If you haven't already, you will almost certainly encounter error messages, and some of those can be intimidating and hard to decipher. In this module, we will intentionally introduce several common errors and help you fix them. Part of learning to program is learning how to read error messages and figure out how to fix the issue.
 
 We will explore several tools, such as using Google or another search engine to search for the error, consulting the popular website [Stack Overflow](https://stackoverflow.com/), and using tutorials to learn proper syntax and see working code.
 

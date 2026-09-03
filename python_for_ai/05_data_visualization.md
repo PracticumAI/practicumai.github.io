@@ -22,6 +22,6 @@ By the end of this module, students will be familiarized with the Matplotlib lib
 
 Read and practice the following Notebook in Jupyter: **05_matplotlib_visualization.ipynb**
 
-Stuck or need to see this in action? Watch the [Data Visualization with Matplotlib Walkthrough video](https://mediasite.video.ufl.edu/Mediasite/Play/566616abb68b4b4f8ead18833296db2d1d) (15:23).
+Stuck or need to see this in action? Watch the [Data Visualization with Matplotlib Walkthrough video](https://mediasite.video.ufl.edu/Mediasite/Play/3d8e7bbd085d4b98a4e8d377ea031fba1d) (15:23).
 
 We have included an **optional** data visualization Notebook which focuses on the `plotnine` library: **05_plotnine_visualization.ipynb**  **Note:** This notebook does not have a walkthrough video!
